@@ -19,5 +19,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`App is listeing on port ${port} ...`);
+    console.log(`App is listeing on port ${port}...`);
 })
